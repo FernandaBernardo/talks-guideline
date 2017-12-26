@@ -41,6 +41,7 @@ Abaixo, terão dicas de design dos slides e também de métodos de organização
 ## Dicas
 - Se esquecer de algo que deveria falar em um slide, não se preocupe, só continue. Afinal, além de você, ninguém sabe o que você deveria falar.
 - Se você fica nervoso vendo que alguém está dormindo durante sua talk ou está com cara de dúvida, não olhe para elas. Procure pessoas que estão prestando atenção e que se mostram interessadas pelo que você está falando. **Foque nelas**!
+- Tente deixar cada slide com um assunto bem curto, dessa forma você evita ter muito texto nos slides e também evita se perder no que está falando
 
 ## Referência de palestras:
 - [How to use one paper towel | Joe Smith](https://www.youtube.com/watch?v=2FMBSblpcrc)
